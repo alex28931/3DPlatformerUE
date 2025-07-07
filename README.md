@@ -42,3 +42,7 @@ A modular 3D platformer developed in Unreal Engine using C++, featuring diverse 
 - Design reactive AI with scalable behavior logic using Unreal’s tools  
 - Integrate Blueprint and C++ logic for a flexible gameplay architecture  
 - Use EQS for intelligent, environment-aware AI behavior
+
+## 🎞️ Gameplay Preview
+
+![Gameplay Preview](Gifs/Gameplay.gif)
