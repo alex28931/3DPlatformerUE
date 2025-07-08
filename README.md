@@ -20,7 +20,7 @@ A modular 3D platformer developed in Unreal Engine using C++, featuring diverse 
 
 - **Behavior Trees** – Core decision-making structure for all enemy types  
 - **Blackboard System** – Shared configuration across enemy behaviors  
-- **Custom Tasks & Decorators** – Defined in both C++ and Blueprints for specific logic  
+- **Custom Tasks & Decorators** – Defined in and Blueprints for specific logic  
 - **EQS Integration** – For environmental awareness and dynamic movement
 
 ## 🔗 Blueprint Communication
@@ -30,7 +30,6 @@ A modular 3D platformer developed in Unreal Engine using C++, featuring diverse 
 ## 🛠️ Technologies Used
 
 - **Unreal Engine**
-- **C++**
 - **Behavior Trees & Blackboard**
 - **Environment Query System (EQS)**
 - **Inheritance-Based Design**
