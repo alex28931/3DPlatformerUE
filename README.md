@@ -1,6 +1,6 @@
 # 🧱 3D Platformer – Unreal Engine
 
-A modular 3D platformer developed in Unreal Engine using C++, featuring diverse platform types, collectible power-ups, and intelligent enemies driven by Behavior Trees and Environment Query System (EQS).
+A modular 3D platformer developed in Unreal Engine using Bleprints, featuring diverse platform types, collectible power-ups, and intelligent enemies driven by Behavior Trees and Environment Query System (EQS).
 
 ## 🎮 Gameplay Overview
 
