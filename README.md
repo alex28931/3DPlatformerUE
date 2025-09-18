@@ -1,11 +1,11 @@
 # 🧱 3D Platformer – Unreal Engine
 
-A modular 3D platformer developed in Unreal Engine using Bleprints, featuring diverse platform types, collectible power-ups, and intelligent enemies driven by Behavior Trees and Environment Query System (EQS).
+A modular 3D platformer developed in Unreal Engine using Bleprints, featuring various platform types, collectible power-ups, and intelligent enemies driven by Behavior Trees and Environment Query System (EQS).
 
 ## 🎮 Gameplay Overview
 
 - **Inheritance-Based Gameplay Elements**  
-  Platforms, power-ups, and enemies are all implemented using C++ inheritance, ensuring reusable logic and easy extensibility.
+  Platforms, power-ups, and enemies are all implemented using Blueprint inheritance, ensuring reusable logic and easy extensibility.
 
 - **Modular Power-Up System**  
   Power-ups derive from a common base class and offer various effects (e.g. speed boosts, jump height), designed for quick integration of new abilities.
@@ -38,8 +38,7 @@ A modular 3D platformer developed in Unreal Engine using Bleprints, featuring di
 ## 🎯 Development Focus
 
 - Apply object-oriented principles to platforms, power-ups, and enemies  
-- Design reactive AI with scalable behavior logic using Unreal’s tools  
-- Integrate Blueprint and C++ logic for a flexible gameplay architecture  
+- Design reactive AI with scalable behavior logic using Unreal’s tools    
 - Use EQS for intelligent, environment-aware AI behavior
 
 ## 🎞️ Gameplay Preview
